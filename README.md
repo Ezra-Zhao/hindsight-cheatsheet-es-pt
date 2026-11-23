@@ -1,5 +1,7 @@
 # 🧠 Guía rápida: Hindsight — memoria que aprende para tus agentes (ES · PT)
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 Una sola página para usar **Hindsight** (de Vectorize): qué es, las tres operaciones que hay que entender (retain, recall, reflect), cómo se instala y en qué se diferencia de guardar la conversación en una base vectorial.
 
 **Autor:** Guangyi Zhao · Octubre 2026
